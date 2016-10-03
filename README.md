@@ -1,7 +1,6 @@
 FFmpeg Java
 ===========
 by Andrew Brampton ([bramp.net](https://bramp.net)) (c) 2013-2014,2016
-forked by Brent Smith
 
 A fluent interface to running FFmpeg from Java.
 
